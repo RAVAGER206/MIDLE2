@@ -1,5 +1,5 @@
 #include<iostream>
-#include"MIDLE.h"
+#include"middle.h"
 using namespace std;
 
 
